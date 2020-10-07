@@ -10,7 +10,7 @@ export class SearchComponent implements OnInit {
   ma_san_pham: any;
   ten_san_pham: any;
   original_data: any;
-
+  dev: any[];
   constructor() {}
 
   ngOnInit(): void {
